@@ -1,2 +1,0 @@
-# CS50x
-CS50x course lab
